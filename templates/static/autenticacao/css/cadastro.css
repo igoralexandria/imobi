@@ -1,5 +1,5 @@
 .sidebar {
-    background-color: #30CD9E;
+    background-color: #3366ff;
     height: 100vh;
 }
 
@@ -30,7 +30,7 @@
 .titulo {
     font-size: 50px;
     font-weight: bold;
-    border-bottom: 2px solid #1EA9B1;
+    border-bottom: 2px solid #C4C4C4;
     display: inline;
 }
 
@@ -57,7 +57,7 @@
 
 .titulo_area_cadastrar {
     font-size: 50px;
-    color: #30CD9E;
+    color: #3366ff;
     margin-top: 15%;
     font-weight: bold;
 }
@@ -78,6 +78,7 @@
 
 .input_cadastrar_nome {
     background-image: url('/static/autenticacao/img/user.png');
+
 }
 
 .input_cadastrar_email {
@@ -89,7 +90,7 @@
 }
 
 .btn_cadastrar {
-    background-color: #30CD9E;
+    background-color: #3366ff;
     border: none;
     color: white;
     font-size: 30px;
